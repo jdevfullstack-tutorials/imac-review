@@ -4,6 +4,10 @@
 
 ## The Retina Display
 
+## The Display Scaling
+
+## The Camera & Loud Speaker 
+
 ## The Virtual Desktops
 
 ## The Performance
