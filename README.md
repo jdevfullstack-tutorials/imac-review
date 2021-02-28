@@ -8,6 +8,6 @@
 
 ## The Camera & Loud Speaker 
 
-## The Virtual Desktops
+## The Virtual Desktop (Spaces)
 
 ## The Performance
