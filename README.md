@@ -6,7 +6,7 @@
 
 ## The Display Scaling
 
-## The Camera & Loud Speaker 
+## The Built-In Camera & Speaker 
 
 ## The Virtual Desktop (Spaces)
 
