@@ -1,2 +1,9 @@
-# imac-review
-I just want to share my experience using the iMac 21.5"
+# iMac 21.5" Review
+
+## The Monitor
+
+## The Retina Display
+
+## The Virtual Desktops
+
+## The Performance
