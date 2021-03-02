@@ -30,6 +30,13 @@ Windows scaling is not that much for
 the larger screen but iMac just nailed it. 
 
 ## The Built-In Camera & Speaker 
+The built-in speaker is an excellent one. It's
+also loud enough that you don't need an external
+speaker.
+
+For the built-in camera, compared to others,
+it's not that good. They added functionalities
+that sometimes make it to adjust automatically.
 
 ## The Virtual Desktop (Spaces)
 
