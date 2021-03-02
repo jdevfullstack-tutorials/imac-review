@@ -39,5 +39,25 @@ it's not that good. They added functionalities
 that sometimes make it to adjust automatically.
 
 ## The Virtual Desktop (Spaces)
+The Virtual Desktop is another great built-in
+app of iMac. As productivity machine,
+you will be dealing with a lot of Windows
+and the spaces provided will enable you to
+have several setups.
+
+Now, here is the thing: you must set up
+everything and make sure you select:
+`Reopen Windows at the next login`. This way,
+you don't need to do the same thing everytime
+you shut it down. This feauture is missing in Windows.
 
 ## The Performance
+Since Apple also is responsible for the hardware
+of their products, they are making sure they
+install everything at optimum performance.
+
+For example, the iMac that I'm using is 
+just an i3 processor yet the performance
+is really excellent. I did not experience
+lagging for so many Google Chrome tabs
+opened at the same time.
