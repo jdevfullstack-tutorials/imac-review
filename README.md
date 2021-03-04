@@ -1,12 +1,12 @@
 # iMac 21.5" Review
 
 ## The Monitor
-The monitor of iMac 21.5" is almost next
+The monitor of the iMac 21.5" is almost next
 to perfection. I really love the way 
 they design it as simple as possible.
 
 The bezel is another issue for the others
-who don't truly understand. It's neglible
+who don't truly understand. It's negligible
 for that size and it actually helps you
 focus because you think that it's not large
 enough.
@@ -17,7 +17,7 @@ experience, I covered that here:
 
 <sample>
   
-Your eyes wont have the usual fatigue
+Your eyes won't have the usual fatigue
 and it's almost next to natural view
 because you don't see the pixels.
 
@@ -37,9 +37,10 @@ speaker.
 
 For the built-in camera, compared to others,
 it's not that good. They added functionalities
-that sometimes make it to adjust automatically.
+that sometimes make it adjust automatically
+but not always good.
 Say, for example, your background is brighter
-than your in front of you, it will be really
+than your front, 
 it will auto-adjust in such a way that your
 face is too dim. That's not good. You need
 extra lighting for your face.
@@ -87,4 +88,4 @@ has the literal moving arm so it is slower
 compared to the SSD which is like the flash
 drive. It does not have the moving arm
 so data will be retrieved faster than the 
-hard disk.
+hard disk. 
