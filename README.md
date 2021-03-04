@@ -67,3 +67,24 @@ just an i3 processor yet the performance
 is really excellent. I did not experience
 lagging for so many Google Chrome tabs
 opened at the same time.
+
+The iMac that I'm using is using the Fusion
+technology and is not an SSD. But still for me
+that's sufficient enough for the overall performance.
+Now, of course the new models are already SSD
+so you get that speed for an SSD.
+
+Take note, if you are quite confused, computers
+need a disk so that all the data that should
+be saved will be kept before shutting it down.
+An Operating System, just like macOS or Windows
+OS contains a lot of files. These files should
+be saved to a disk not on the memory.
+
+Now, the difference between the hard disk and 
+Solid State Drive is that the other one
+has the literal moving arm so it is slower
+compared to the SSD which is like the flash
+drive. It does not have the moving arm
+so data will be retrieved faster than the 
+hard disk.
