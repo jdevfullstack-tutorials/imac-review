@@ -56,7 +56,7 @@ have several setups.
 
 Now, here is the thing: you must set up
 everything and make sure you select:
-`Reopen Windows at the next login`. This way,
+`Reopen windows when logging back in`. This way,
 you don't need to do the same thing everytime
 you shut it down. This feauture is missing in Windows.
 
