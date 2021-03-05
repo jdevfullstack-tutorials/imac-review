@@ -29,6 +29,8 @@ the size your brain will expect.
 Windows scaling is not that much for 
 the larger screen but iMac just nailed it. 
 
+*a sample picture should be provide*
+
 ## The Built-In Camera & Speaker 
 The built-in speaker is an excellent one
 in terms of sound quality. It's
@@ -58,7 +60,11 @@ everything and make sure you select:
 you don't need to do the same thing everytime
 you shut it down. This feauture is missing in Windows.
 
+*sample gif should be provided*
+
 ## The Performance
+*imac specs*
+
 Since Apple also is responsible for the hardware
 of their products, they are making sure they
 install everything at optimum performance.
