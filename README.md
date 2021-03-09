@@ -71,7 +71,7 @@ you shut it down. This feauture is missing in Windows.
 ![spaces](https://user-images.githubusercontent.com/47092464/110416309-70dbbf80-80ce-11eb-901e-e21d9efa3c8d.gif)
 
 ## The Performance
-*imac specs*
+<img width="698" alt="Screen Shot 2021-03-09 at 11 58 52 AM" src="https://user-images.githubusercontent.com/47092464/110416642-0414f500-80cf-11eb-9476-a1f8be05417d.png">
 
 Since Apple also is responsible for the hardware
 of their products, they are making sure they
