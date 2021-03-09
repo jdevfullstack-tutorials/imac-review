@@ -83,6 +83,8 @@ is really excellent. I did not experience
 lagging for so many Google Chrome tabs
 opened at the same time.
 
+<img width="698" alt="Screen Shot 2021-03-09 at 12 03 45 PM" src="https://user-images.githubusercontent.com/47092464/110416965-a0d79280-80cf-11eb-8c65-806a5e1b34bb.png">
+
 The iMac that I'm using is using the Fusion
 technology and is not an SSD. But still for me
 that's sufficient enough for the overall performance.
