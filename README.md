@@ -45,6 +45,13 @@ external monitor.
 I feel like this is a very big mobile phone
 and the scaling is just exactly like that.
 
+And if you noticed that, I am not making it full
+screen just to save the landscape view. I still 
+want to see the Desktop background too.
+If you have the full screen, most spaces will
+be just white just to fill the page, so
+it's an overkill.
+
 ## The Built-In Camera & Speaker 
 The built-in speaker is an excellent one
 in terms of sound quality. It's
