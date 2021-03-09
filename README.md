@@ -15,11 +15,17 @@ enough.
 The retina display is really an awesome 
 experience, I covered that here:
 
-<sample>
+<https://github.com/xdvrx1/display-resolution-review>
   
 Your eyes won't have the usual fatigue
 and it's almost next to natural view
 because you don't see the pixels.
+
+The only downside is that, since 4k is 
+so dense, the things on the screen will appear 
+smaller when your eyes are used to 1080p displays.
+But the only trick here is the viewing
+distance. I mentioned that there in my display review.  
 
 ## The Display Scaling
 The display scaling is really great.
