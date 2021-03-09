@@ -31,6 +31,14 @@ the larger screen but iMac just nailed it.
 
 <img width="2048" alt="Screen Shot 2021-03-09 at 11 32 37 AM" src="https://user-images.githubusercontent.com/47092464/110414679-4c321880-80cb-11eb-99a3-8a46a56ded22.png">
 
+As you can see here, everything is fine, thing 
+are proportional. In Windows 10, even in Chrome
+the scaling is not that good even just for 27"
+external monitor.
+
+I feel like this is a very big mobile phone
+and the scaling is just exactly like that.
+
 ## The Built-In Camera & Speaker 
 The built-in speaker is an excellent one
 in terms of sound quality. It's
