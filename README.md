@@ -68,7 +68,7 @@ everything and make sure you select:
 you don't need to do the same thing everytime
 you shut it down. This feauture is missing in Windows.
 
-*sample gif should be provided*
+![spaces](https://user-images.githubusercontent.com/47092464/110416309-70dbbf80-80ce-11eb-901e-e21d9efa3c8d.gif)
 
 ## The Performance
 *imac specs*
