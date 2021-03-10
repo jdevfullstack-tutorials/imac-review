@@ -30,14 +30,14 @@ distance. I mentioned that there in my display review.
 ## The Display Scaling
 The display scaling is really great.
 The way things there are scaled are exactly
-the size your brain will expect.
+the size you expect.
 
 Windows scaling is not that much for 
 the larger screen but iMac just nailed it. 
 
 <img width="2048" alt="Screen Shot 2021-03-09 at 11 32 37 AM" src="https://user-images.githubusercontent.com/47092464/110414679-4c321880-80cb-11eb-99a3-8a46a56ded22.png">
 
-As you can see here, everything is fine, thing 
+As you can see here, everything is fine, things 
 are proportional. In Windows 10, even in Chrome
 the scaling is not that good even just for 27"
 external monitor.
@@ -94,12 +94,14 @@ For example, the iMac that I'm using is
 just an i3 processor yet the performance
 is really excellent. I did not experience
 lagging for so many Google Chrome tabs
-opened at the same time.
+opened at the same time. They are also
+scattered for 9 virtual desktops and the
+performance is still excellent.
 
 <img width="698" alt="Screen Shot 2021-03-09 at 12 03 45 PM" src="https://user-images.githubusercontent.com/47092464/110416965-a0d79280-80cf-11eb-8c65-806a5e1b34bb.png">
 
 The iMac that I'm using is using the Fusion
-technology and is not an SSD. But still for me
+technology and is not an SSD. But still, for me,
 that's sufficient enough for the overall performance.
 Now, of course the new models are already SSD
 so you get that speed for an SSD.
@@ -109,7 +111,8 @@ need a disk so that all the data that should
 be saved will be kept before shutting it down.
 An Operating System, just like macOS or Windows
 OS contains a lot of files. These files should
-be saved to a disk not on the memory.
+be saved to a disk not on the memory because the
+memory is volatile.
 
 Now, the difference between the hard disk and 
 Solid State Drive is that the other one
