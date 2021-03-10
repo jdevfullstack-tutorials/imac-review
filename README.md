@@ -84,7 +84,7 @@ you shut it down. This feauture is missing in Windows.
 ![spaces](https://user-images.githubusercontent.com/47092464/110417465-a41f4e00-80d0-11eb-99fa-dcdf9e2a1ab8.gif)
 
 ## The Performance
-<img width="698" alt="Screen Shot 2021-03-09 at 11 58 52 AM" src="https://user-images.githubusercontent.com/47092464/110416642-0414f500-80cf-11eb-9476-a1f8be05417d.png">
+![110416642-0414f500-80cf-11eb-9476-a1f8be05417d](https://user-images.githubusercontent.com/47092464/110609878-a664d380-81c8-11eb-9600-e3c93721e367.png)
 
 Since Apple also is responsible for the hardware
 of their products, they are making sure they
