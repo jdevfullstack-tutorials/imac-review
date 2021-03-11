@@ -5,7 +5,7 @@ The monitor of the iMac 21.5" is almost next
 to perfection. I really love the way 
 they designed it as simple as possible.
 
-The bezel is another issue for the others
+The bezel is an issue for the others
 who don't truly understand. It's negligible
 for that size and it actually helps you
 focus because you think that it's not large
