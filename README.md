@@ -1,4 +1,7 @@
 # iMac 21.5" Review
+Take note, I am not in any way related to
+Apple Company and I am not promoting this
+product.
 
 ## The Monitor
 The monitor of the iMac 21.5" is almost next
