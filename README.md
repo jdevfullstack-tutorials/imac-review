@@ -28,7 +28,8 @@ The only downside is that, since 4k is
 so dense, the things on the screen will appear 
 smaller when your eyes are used to 1080p displays.
 But the only trick here is the viewing
-distance. I mentioned that there in my display review.  
+distance. I mentioned that there in my 
+[display](https://github.com/xdvrx1/display-resolution-review) review.  
 
 ## The Display Scaling
 The display scaling is really great.
