@@ -129,5 +129,5 @@ hard disk.
 
 But several technologies implemented hybrid,
 just like the Fusion Drive. SSD is costly
-so they the tendency is to mix
+so the tendency is to mix
 both technology for performance.
