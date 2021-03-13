@@ -11,8 +11,8 @@ they designed it as simple as possible.
 The bezel is an issue for the others
 who don't truly understand. It's negligible
 for that size and it actually helps you
-focus because you think that it's not large
-enough.
+focus because you think that it's not 
+that large enough.
 
 ## The Retina Display
 The retina display is really an awesome 
@@ -83,7 +83,8 @@ Now, here is the thing: you must set up
 everything and make sure you select:
 `Reopen windows when logging back in`. This way,
 you don't need to do the same thing everytime
-you shut it down. This feauture is missing in Windows.
+you shut it down. This feauture is by default
+missing in Windows.
 
 ![spaces](https://user-images.githubusercontent.com/47092464/110417465-a41f4e00-80d0-11eb-99fa-dcdf9e2a1ab8.gif)
 
