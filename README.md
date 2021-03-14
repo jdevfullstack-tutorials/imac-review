@@ -63,9 +63,9 @@ also loud enough that you don't need an external
 speaker.
 
 For the built-in camera, compared to others,
-it's not that good. They added functionalities
-that sometimes make it adjust automatically
-but not always good.
+it's not that good. The auto-adjust feature
+does not seem to benefit, if there is
+any at all.
 Say, for example, your background is brighter
 than your front, 
 it will auto-adjust in such a way that your
