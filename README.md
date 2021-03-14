@@ -76,7 +76,7 @@ extra lighting for your face.
 The Virtual Desktop is another great built-in
 app of iMac. As productivity machine,
 you will be dealing with a lot of Windows
-and the spaces provided will enable you to
+and the Spaces app will enable you to
 have several setups.
 
 Now, here is the thing: you must set up
