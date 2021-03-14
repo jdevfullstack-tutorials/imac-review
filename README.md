@@ -33,7 +33,7 @@ distance. I mentioned that there in my
 
 ## The Display Scaling
 The display scaling is really great.
-The way things there are scaled are exactly
+The way things were scaled are exactly
 the size you expect.
 
 Windows scaling is not that much for 
