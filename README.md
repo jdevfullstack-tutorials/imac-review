@@ -75,7 +75,7 @@ extra lighting for your face.
 ## The Virtual Desktop (Spaces)
 The Virtual Desktop is another great built-in
 app of iMac. As productivity machine,
-you will be dealing with a lot of Windows
+you will be dealing with a lot of windows
 and the Spaces app will enable you to
 have several setups.
 
@@ -115,7 +115,7 @@ Take note, if you are quite confused, computers
 need a disk so that all the data that should
 be saved will be kept before shutting it down.
 An Operating System, just like macOS or Windows
-OS contains a lot of files. These files should
+OS, contains a lot of files. These files should
 be saved to a disk not on the memory because the
 memory is volatile.
 
