@@ -38,7 +38,7 @@ The way things were scaled are exactly
 the size you expect.
 
 Windows scaling is not that much for 
-the larger screen but iMac just nailed it. 
+the widescreen but iMac just nailed it. 
 
 <img width="2048" alt="Screen Shot 2021-03-09 at 11 32 37 AM" src="https://user-images.githubusercontent.com/47092464/110414679-4c321880-80cb-11eb-99a3-8a46a56ded22.png">
 
