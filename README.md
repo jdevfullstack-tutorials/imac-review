@@ -44,7 +44,7 @@ the larger screen but iMac just nailed it.
 
 As you can see here, everything is fine, things 
 are proportional. In Windows 10, even in Chrome
-the scaling is not that good even just for 27"
+the scaling is not that good even just for a 27"
 external monitor.
 
 I feel like this is a very big mobile phone
@@ -83,8 +83,8 @@ have several setups.
 Now, here is the thing: you must set up
 everything and make sure you select:
 `Reopen windows when logging back in`. This way,
-you don't need to do the same thing everytime
-you shut it down. This feauture is, by default,
+you don't need to do the same thing every time
+you shut it down. This feature is, by default,
 missing in Windows.
 
 ![spaces](https://user-images.githubusercontent.com/47092464/110417465-a41f4e00-80d0-11eb-99fa-dcdf9e2a1ab8.gif)
@@ -128,7 +128,7 @@ drive. It does not have the moving arm
 so data will be retrieved faster than the 
 hard disk. 
 
-But several technologies implemented hybrid
+But several technologies implemented hybrids
 like the Fusion Drive. SSD is costly
 so the tendency is to mix
 both technology for performance, so
