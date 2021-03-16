@@ -117,7 +117,7 @@ need a disk so that all the data that should
 be saved will be kept before shut down.
 An Operating System, just like macOS or Windows
 OS, contains a lot of files. These files should
-be saved to a disk not to the memory because
+be saved to the disk not to the memory because
 you can't save it there: the
 memory is volatile.
 
