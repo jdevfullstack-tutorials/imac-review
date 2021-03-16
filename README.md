@@ -110,7 +110,7 @@ The iMac that I'm using is using the Fusion Drive
 technology, not purely SSD. But still, for me,
 that's sufficient enough for the overall performance.
 Now, of course the new models are already SSD,
-so you get that speed for an SSD.
+so you get that speed of an SSD.
 
 Take note, if you are quite confused, computers
 need a disk so that all the data that should
