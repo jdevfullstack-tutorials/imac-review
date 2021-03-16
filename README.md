@@ -109,7 +109,7 @@ performance is still excellent.
 The iMac that I'm using is using the Fusion Drive
 technology, not purely SSD. But still, for me,
 that's sufficient enough for the overall performance.
-Now, of course the new models are already SSD
+Now, of course the new models are already SSD,
 so you get that speed for an SSD.
 
 Take note, if you are quite confused, computers
@@ -117,7 +117,8 @@ need a disk so that all the data that should
 be saved will be kept before shut down.
 An Operating System, just like macOS or Windows
 OS, contains a lot of files. These files should
-be saved to a disk not on the memory because the
+be saved to a disk not to the memory because
+you can't save it there: the
 memory is volatile.
 
 Now, the difference between the hard disk and 
