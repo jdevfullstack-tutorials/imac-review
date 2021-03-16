@@ -114,7 +114,7 @@ so you get that speed for an SSD.
 
 Take note, if you are quite confused, computers
 need a disk so that all the data that should
-be saved will be kept before shutting it down.
+be saved will be kept before shut down.
 An Operating System, just like macOS or Windows
 OS, contains a lot of files. These files should
 be saved to a disk not on the memory because the
