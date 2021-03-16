@@ -28,8 +28,9 @@ The only downside is that, since 4k is
 so dense, the things on the screen will appear 
 smaller when your eyes are used to 1080p displays.
 But the only trick here is the viewing
-distance. I mentioned that there in my 
-[display](https://github.com/xdvrx1/display-resolution-review) review.  
+distance. I mentioned that in my 
+[display](https://github.com/xdvrx1/display-resolution-review)
+review.  
 
 ## The Display Scaling
 The display scaling is really great.
@@ -74,7 +75,7 @@ extra lighting for your face.
 
 ## The Virtual Desktop (Spaces)
 The Virtual Desktop is another great built-in
-app of iMac. As productivity machine,
+app of iMac. As a productivity machine,
 you will be dealing with a lot of windows
 and the Spaces app will enable you to
 have several setups.
@@ -83,7 +84,7 @@ Now, here is the thing: you must set up
 everything and make sure you select:
 `Reopen windows when logging back in`. This way,
 you don't need to do the same thing everytime
-you shut it down. This feauture is by default
+you shut it down. This feauture is, by default,
 missing in Windows.
 
 ![spaces](https://user-images.githubusercontent.com/47092464/110417465-a41f4e00-80d0-11eb-99fa-dcdf9e2a1ab8.gif)
@@ -122,13 +123,13 @@ memory is volatile.
 Now, the difference between the hard disk and 
 Solid State Drive is that the other one
 has the literal moving arm so it is slower
-compared to the SSD which is like the flash
+compared to the SSD, which is like the flash
 drive. It does not have the moving arm
 so data will be retrieved faster than the 
 hard disk. 
 
-But several technologies implemented hybrid,
-just like the Fusion Drive. SSD is costly
+But several technologies implemented hybrid
+like the Fusion Drive. SSD is costly
 so the tendency is to mix
 both technology for performance, so
 buyers still saved some money.
