@@ -124,9 +124,7 @@ Now, the difference between the hard disk and
 Solid State Drive is that the other one
 has the literal moving arm so it is slower
 compared to the SSD, which is like the flash
-drive. It does not have the moving arm
-so data will be retrieved faster than the 
-hard disk. 
+drive.
 
 But several technologies implemented hybrids
 like the Fusion Drive. SSD is costly
