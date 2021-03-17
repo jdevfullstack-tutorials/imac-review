@@ -92,7 +92,7 @@ missing in Windows.
 ## The Performance
 ![110416642-0414f500-80cf-11eb-9476-a1f8be05417d](https://user-images.githubusercontent.com/47092464/110609878-a664d380-81c8-11eb-9600-e3c93721e367.png)
 
-Since Apple also is responsible for the hardware
+Since Apple is also responsible for the hardware
 of their products, they are making sure they
 install everything at optimum performance.
 
