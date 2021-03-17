@@ -133,3 +133,11 @@ like the Fusion Drive. SSD is costly
 so the tendency is to mix
 both technology for performance, so
 buyers still saved some money.
+
+## Realization
+If I would have the chance, I would go
+for 27" 5k iMac. The product is really 
+worth it. I would be using another
+external monitor on top of the iMac,
+maybe a 35" 4k display for further
+space aside from the virtual desktops.
