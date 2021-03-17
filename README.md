@@ -116,7 +116,8 @@ Take note, if you are quite confused, computers
 need a disk so that all data that should
 be saved will be kept before shut down.
 An Operating System, just like macOS or Windows
-OS, contains a lot of files. These files should
+OS, has a lot of files for the system. 
+These files should
 be saved to the disk not to the memory because
 you can't save it there: the
 memory is volatile.
