@@ -141,3 +141,9 @@ worth it. I would be using another
 external monitor on top of the iMac,
 maybe a 35" 4k display for further
 space aside from the virtual desktops.
+
+Or, I would have the MacBook Air and
+I would project it to two external
+4k monitors, stacked. I don't want
+the other one to be placed on either
+side because it's not centered.
