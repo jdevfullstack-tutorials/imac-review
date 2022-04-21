@@ -1,4 +1,7 @@
 # iMac 21.5" Review
+
+*`updated 21 April 2022`*
+
 Take note, I am not in any way related to
 Apple Company and I am not promoting this
 product.
