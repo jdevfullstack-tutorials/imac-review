@@ -21,7 +21,7 @@ that large enough.
 The retina display is really an awesome 
 experience, I covered that here:
 
-<https://github.com/xdvrx1/display-resolution-review>
+<https://github.com/jdevstatic/display-resolution-review>
   
 Your eyes won't have the usual fatigue
 and it's almost next to natural view
